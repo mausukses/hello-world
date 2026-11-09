@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    echo "<h1>Hello World</h1>" > index.html
+     <h1><?php echo "Selamat Datang di Website Saya"; ?></h1>
 </body>
 </html>
