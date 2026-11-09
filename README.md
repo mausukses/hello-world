@@ -1,4 +1,14 @@
- git --version
+# Sesi 2: Latihan Git dan GitHub (1.2)
+
+## Konfigurasi Kelompok
+Kelompok: Beda Tuhan, satu tujuan
+
+Anggota:
+Brian Zakariya
+
+Benaya Yoyada
+
+git --version
 git version 2.56.0.windows.4
 
 git config --global user.name "Benaya"   
