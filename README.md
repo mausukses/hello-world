@@ -1,0 +1,1 @@
+echo "Repository latihan Git dan GitHub." > README.md
